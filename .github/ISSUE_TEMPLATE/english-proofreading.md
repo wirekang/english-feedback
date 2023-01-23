@@ -1,7 +1,7 @@
 ---
 name: English Proofreading
-about: English Proofreading
-title: "  "
+about: ""
+title: ""
 labels: ''
 assignees: ''
 
