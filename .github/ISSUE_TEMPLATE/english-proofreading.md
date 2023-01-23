@@ -1,6 +1,6 @@
 ---
-name: Default Template
-about: Default Issue Template
+name: English Proofreading
+about: English Proofreading
 title: "  "
 labels: ''
 assignees: ''
