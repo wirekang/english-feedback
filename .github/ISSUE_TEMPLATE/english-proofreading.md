@@ -1,6 +1,6 @@
 ---
 name: English Proofreading
-about: ""
+about: "."
 title: ""
 labels: ''
 assignees: ''
